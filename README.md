@@ -113,18 +113,6 @@ while student.awake:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">📈 GitHub Statistics</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nan2006-ditha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=FFFFFF&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nan2006-ditha&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nan2006-ditha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nan2006-ditha&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=6366F1&area=true&area_color=8B5CF6" />
-</div>
-
 <h2 align="center">🧩 LeetCode Stats</h2>
 
 <div align="center">
@@ -139,16 +127,12 @@ while student.awake:
 
 | Repo | What it does | Stack |
 |---|---|---|
-| [`Customer_Behaviour_Analysis`](https://github.com/Nan2006-ditha/Customer_Behaviour_Analysis) | Customer behavior analytics dashboard | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| [`Next Word Prediction`](https://github.com/Nan2006-ditha/Next_word_prediction-using-LSTM) | Pandas/Matplotlib analysis on Netflix data | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| [`crop-disease-predictor`](https://github.com/Nan2006-ditha/crop-disease-predictor) | ML model predicting crop disease from images | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| [`Delivery-Analytics`](https://github.com/Nan2006-ditha/Delivery_Analytics) | Batch MLOps pipeline beyond notebooks | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| [`Driver-Drowsiness-Detection`](https://github.com/Nan2006-ditha/Driver-Drowsiness-Detection) | Real-time driver drowsiness detection using Computer Vision, MediaPipe, CNN, and FastAPI | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| [`crop-disease-predictor`](https://github.com/Nan2006-ditha/crop-disease-predictor) | Deep learning-based crop disease prediction from leaf images with web deployment | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| [`Customer_Behaviour_Analysis`](https://github.com/Nan2006-ditha/Customer_Behaviour_Analysis) | Customer behavior analysis and interactive Power BI dashboard for business insights | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| [`Customer-Churn-Prediction`](https://github.com/Nan2006-ditha/Customer-Churn-Prediction) | End-to-end machine learning pipeline for customer churn prediction with FastAPI and Docker | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
-
-> 🔗 Full list at [github.com/Nan2006-ditha](https://github.com/Nan2006-ditha) — 16 repos and counting
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
